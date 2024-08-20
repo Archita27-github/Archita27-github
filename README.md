@@ -1,15 +1,15 @@
 ![MasterHead](https://camo.githubusercontent.com/c9dd8184acce8b199a8d717cdb2c10dd89e850128b86279978b95451e18c6da7/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67)
 
 <h1 align="center">Hi 👋, I'm Archita Sharma</h1>
-<h3 align="center">An Undergrad pursuing Computer Science Engineering who is extremely passionate about Software Development and Project Management</h3>
+<h3 align="center">An Undergrad pursuing Computer Science Engineering who is extremely passionate about Software Development and Product Management</h3>
 
 <img align="right" width="320" height="220" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" >
 
-- 🔭 I’m currently working with **Technolutions**
+- 🔭 I’m currently working with **Techolution**
 
 - 🌱 I’m currently learning **Flutter Development**
 
-- 💬 Ask me about **Full Stack Development, AWS Cloud and Project Management**
+- 💬 Ask me about **Full Stack Development, Azure Cloud and Product Management**
 
 - 📫 How to reach me **architasharma002@gmail.com**
 
