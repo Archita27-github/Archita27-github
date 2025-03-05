@@ -1,6 +1,6 @@
 ![MasterHead](https://www.intellidyne-llc.com/wp-content/uploads/2020/11/AppDev-Solutions-2000x400-1.jpg)
 
-<h1 align="center">Hi👋I'm Archita Sharma!</h1>
+<h1 align="center">Hey👋I'm Archita Sharma!</h1>
 <h3 align="center">4th-Year CSE Undergrad | Passionate About Product Management, Data, and Business Analysis</h3>
 
 <img align="right" width="320" height="220" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" >
