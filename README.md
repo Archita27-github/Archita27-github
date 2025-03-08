@@ -7,7 +7,7 @@
 
 ### Projects Overview:
 
-📱 **Hot Takes - News Headline App**: Developed during the [Google Developers Externship Program](https://developers.google.com/community/experts/externship), this app delivers AI-curated, real-time news headlines. The app scored **92/100**.
+📱 **Hot Takes - News Headline App**: Developed during the [Google Developers Externship Program](https://developers.google.com/community/experts/externship), this app delivers concise, real-time news headlines for busy folks. The app scored **92/100**.
 
 🦾 **HawkAI**: An AI-powered, touch-free assistive technology designed for disabled users to ensure seamless accessibility for all. It also includes an allergy information input system for the best customer experience. Recognized and presented at the [ICASIC Conference 2024](https://icasic.org/).
 
